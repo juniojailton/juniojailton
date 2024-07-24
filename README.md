@@ -1,6 +1,8 @@
 ### ✨ Hi! Welcome ✨
 
-My name is Jailton Jr. and I live in Rio Branco (AC). I am a student of Analysis and Systems Developer, 6th semester, at the educational institution U:Verse, I have a basic level in English. I am working as a Distance Education Digitizer at the Institute of Professional and Technological Education of the State of Acre (Ieptec/Dom Moacyr).
+My name is Jailton Jr.
 
-🌱 Currently learning Python, JavaScript, CSS, HTML5...
-📫 How to contact me: https://linktr.ee/jailtonjr ...
+Systems Analyst and Developer.
+
+🌱 Python, JavaScript, CSS, HTML5 💻 🖱
+📫 How to contact me: juniojailton@gmail.com 📢
