@@ -1,9 +1,6 @@
 ### ✨ Hi! Welcome ✨
 
-My name is Jailton Jr.
-
-Systems Analyst and Developer.
-
+Meu nome é Jailton Jr. do Brasil (🇧🇷). Trabalho como Desenvolvedor desde 2021 e atualmente estou na CGE - Controladoria Geral do Acre.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JR-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,6 +13,14 @@ Systems Analyst and Developer.
 </div>
 
 ##
+
+No meu tempo livre gosto de assistir filmes (🎞️) e séries (📺), ler livros (📚), ouvir música (🎵) e eventualmente gosto de filosofar sobre a vida tomando uma cervejinha (🍺)
+
+###
+
+Você gostaria de me encontrar?
+
+
 
 <div> 
   <a href="https://www.youtube.com/@jailtonjr.905/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
