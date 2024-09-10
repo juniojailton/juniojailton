@@ -26,8 +26,6 @@ No meu tempo livre gosto de assistir filmes (🎞️) e séries (📺), ler livr
 
 ###
 
-Você gostaria de me encontrar?
-
 
 
 <div> 
