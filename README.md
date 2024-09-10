@@ -1,6 +1,6 @@
 ### ✨ Hi! Welcome ✨
 
-Meu nome é Jailton Jr. do Brasil (🇧🇷). Trabalho como Desenvolvedor desde 2021, atualmente estou na CGE - Controladoria Geral do Acre.
+Meu nome é Jailton Jr. do Brasil (🇧🇷). Trabalho como Programador, atualmente estou na CGE - Controladoria Geral do Acre.
 
 <div style="display: inline_block"><br>
   
